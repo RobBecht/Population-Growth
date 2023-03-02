@@ -1,6 +1,6 @@
-# Final Project Capstone1
+# Capstone 1 - Population growth by zip code
 
-### The goal of this project is to import, view and manipulate census data from .csv files.
+### The goal of this project is to display population growth by zip code. This project will entail reading in census data in .csv files, manipulating the data to remove unneccessary columns, joining multiple sets of values to display trends, and outputing visuals to represent findings.
 
 ### requirements pandas, matplotlib
 
