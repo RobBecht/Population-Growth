@@ -1,4 +1,4 @@
-# Capstone 1 - Population growth by zip code
+# Capstone 1 - Data comparison of reported census values
 
 ### The goal of this project is to examine two datasets of census data, and generate evidence supporting or debunking validity. This project will entail reading in census data in .csv files, manipulating/cleaning the data for ease of viewing and correcting null values, joining multiple sets of values to display trends, and outputing visuals to represent findings.
 
